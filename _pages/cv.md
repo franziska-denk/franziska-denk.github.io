@@ -29,7 +29,7 @@ redirect_from:
 💼 Work experience
 ======
 * **SEA.AI** (Linz, Austria):
-  * Jan. 2025 - currently: **Industrial PhD Researcher**
+  * Feb. 2025 - currently: **Industrial PhD Researcher**
     * In collaboration with Computer Vision Lab, TU Wien (Vienna, Austria)
     * Research focus: see Education/PhD above
     * Successfully applied for a three year research grant by the Austrian Research Promotion Agency (FFG)
