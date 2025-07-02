@@ -15,7 +15,7 @@ redirect_from:
   * Research focus: Video Object Detection, Small Object Detection, Maritime Computer Vision
   * Supervised by Univ.-Prof. Dr. Robert Sablatnig
 * **MSc in Artificial Intelligence** (*Johannes Kepler University, Linz, Austria*): completed Dec. 2024
-  * Courses: Computer Vision, Deep Learning and Neural Networks, Deep Reinforcement Learning, Theoretical Concepts of Machine Learning, ...
+  * Courses: Computer Vision, Deep Learning and Neural Networks, Deep Reinforcement Learning, LSTM and Recurrent Neural Networks, Theoretical Concepts of Machine Learning, ...
   * Specialization: Embedded Intelligence and Signal Processing
   * Thesis: "Adversarial Robustness in the Context of Concept-based Bottleneck Models" supervised by Katharina Hoedt and Univ.-Prof. Dr. Gerhard Widmer
   * Graduated with distinction
