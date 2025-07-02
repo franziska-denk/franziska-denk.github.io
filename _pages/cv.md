@@ -28,7 +28,7 @@ redirect_from:
 
 💼 Work experience
 ======
-* **SEA.AI**:
+* **SEA.AI** (Linz, Austria):
   * Jan. 2025 - currently: **Industrial PhD Researcher**
     * In collaboration with Computer Vision Lab, TU Wien (Vienna, Austria)
     * Research focus: see Education/PhD above
@@ -46,7 +46,7 @@ redirect_from:
     * Assist R&D team in various tasks (camera calibration, developing object detection models, automating tasks via scripts, etc.)
     * Part-time
 
-* **Johannes Kepler University (Linz, Austria)**:
+* **Johannes Kepler University** (Linz, Austria):
   * Oct. 2020 - Jan. 2021: **Student Assistant in Media Technology**
     * Support remote teaching
     * Part-time
