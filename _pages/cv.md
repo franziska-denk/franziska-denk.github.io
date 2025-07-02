@@ -35,7 +35,7 @@ redirect_from:
     * Successfully applied for a three year research grant by the Austrian Research Promotion Agency (FFG)
 
   * Mar. 2022 - Jan. 2025: **AI Researcher & Engineer**
-    * Work on research projects funded by the Austrian Research Promotion Agency (FFG) with a research focus on computer vision for maritime surface imagery, including:
+    * Work on research projects funded by the Austrian Research Promotion Agency (FFG), focused on computer vision for maritime surface imagery, including:
       * Panoptic Segmentation
       * Object Detection
       * Semi-automatic data annotation
