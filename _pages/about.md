@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Vision Researcher and Engineer, currently in an Industrial PhD program at SEA.AI and the Computer Vision Lab, TU Wien.
+I am a Computer Vision Researcher and Engineer in an Industrial PhD program at SEA.AI and the Computer Vision Lab, TU Wien.
 My current research focuses on Video Object Detection and Small Object Detection in maritime scenarios.
 In the past, I was investigating Panoptic Segmentation and Adversarial Machine Learning with a focus on concept-based explainable computer vision models.
 
