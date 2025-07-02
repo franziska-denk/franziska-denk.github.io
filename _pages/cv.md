@@ -11,54 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Computer Science, TU Wien (Vienna, Austria), ongoing
+* MSc in Artificial Intelligence, Johannes Kepler University (Linz, Austria), 2024
+  * Courses: Computer Vision, Deep Learning and Neural Networks, Deep Reinforcement Learning, Theoretical Concepts of Machine Learning, ...
+  * Specialization: Embedded Intelligence and Signal Processing
+  * Thesis: *Adversarial Robustness in the Context of Concept-based Bottleneck Models*, supervised by Katharina Hoedt and Univ.-Prof. Dr. Gerhard Widmer
+  * Graduated with distinction
+* BSc in Artificial Intelligence, Johannes Kepler University (Linz, Austria), 2022
+  * Courses: Natural Language Processing, Mathematics, Statistics, ...
+  * Graduated with distinction
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan. 2025 - currently: Industrial PhD Researcher
+  * SEA.AI (Linz, Austria) in collaboration with Computer Vision Lab, TU Wien (Austria)
+  * Research focus: Video Object Detection, Small Object Detection, Maritime Computer Vision
+  * Successfully applied for a three year research grant by the Austrian Research Promotion Agency (FFG)
+* Mar. 2022 - Jan. 2025: AI Researcher & Engineer (part-time)
+  * SEA.AI (Linz, Austria)
+  * Work on research project funded by the Austrian Research Promotion Agency (FFG) with a research focus on computer vision for maritime surface imagery, including:
+    * panoptic segmentation
+    * object detection
+    * semi-automatic data annotation
+    * real-time and edge-deployable models
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb. 2021 - Feb. 2022: Hard- and Software Assistant (part-time)
+  * SEA.AI (Linz, Austria)
+  * Assist R&D team in various tasks (camera calibration, developing object detection models, automating tasks via scripts, etc.)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Oct. 2020 - Jan. 2021: Student Assistant in Media Technology (part-time)
+  * Johannes Kepler University (Linz, Austria)
+  * Support remote teaching
