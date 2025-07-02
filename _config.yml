@@ -15,7 +15,7 @@ name                     : &name "Franziska Denk"
 description              : &description "Computer Vision - Industrial PhD student"
 url                      : https://franziska-denk.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "franziska-denk/franziskadenk.github.io"
+repository               : "franziska-denk/franziska-denk.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Computer Vision - Industrial PhD student"
   location         : "Vienna, Austria"
-  employer         : "SEA.AI\nComputer Vision Lab (TU Wien)"
+  employer         : "SEA.AI, CVL (TU Wien)"
   uri              : # URL
   email            : "denk.m.franziska@gmail.com" 
 
